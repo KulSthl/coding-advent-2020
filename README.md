@@ -6,7 +6,7 @@ Trying to use every programming language
 |---	|---	| ------   |
 | 1  	| Julia  	| [✔] |
 | 2  	| Rust  	| [✔] |
-| 3  	| C#  	| [ ]  |
+| 3  	| C#  	| [✔]  |
 | 4  	| Ruby  	| [ ]  |
 | 5  	| Perl  	|  [ ]  |
 | 6  	| Python  	| [ ]  |
