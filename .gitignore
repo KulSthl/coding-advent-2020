@@ -3,3 +3,5 @@ cargo.lock
 Cargo.lock
 bin
 obj
+coding_advent.code-workspace
+.vscode
