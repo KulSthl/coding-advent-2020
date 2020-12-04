@@ -4,10 +4,10 @@ Trying to use every programming language
 
 |  Day 	| Programming Language  	|    | My opinion |
 |---	|---	| ------   |----|
-| 1  	| Julia  	| [✔] | I like |
-| 2  	| Rust  	| [✔] | Too much overhead for this kind of simple stuff but docu is great, overall good |
-| 3  	| C#  	| [✔]  | Too much overhead for this kind of simple stuff but it was a great experience |
-| 4  	| Ruby  	| [✔]  | Kind of okish no overhead but tooling was not simple to install and it was just something off |
+| 1  	| Julia  	| ✔ | I like |
+| 2  	| Rust  	| ✔ | Too much overhead for this kind of simple stuff but docu is great, overall good |
+| 3  	| C#  	| ✔  | Too much overhead for this kind of simple stuff but it was a great experience |
+| 4  	| Ruby  	| ✔  | Kind of okish no overhead but tooling was not simple to install and it was just something off |
 | 5  	| Perl  	|  [ ]  | |
 | 6  	| Python  	| [ ]  | |
 | 7  	| Shell  	| [ ]  | |
