@@ -10,9 +10,9 @@ Trying to use every programming language
 | 4  	| Ruby  	| ✔  | Kind of okish no overhead but tooling was not simple to install and it was just something off |
 | 5  	| Perl  	|  ✔  | Didnt like it at all tooling was easy to install but everything was just strange. Documentation was also not easy to find, I just think its too old   |
 | 6  	| Python  	| ✔  | Same as Julia, but better tooling and more documentation |
-| 7  	| Shell  	| [ ]  | |
-| 8  	| Kotlin  	|  [ ]  | |
-| 9  	| Java  	| [ ]  | |
+| 7  	| Kotlin  	| ✔ | I dont like Java that much and its maybe better but still having to use gradle or maven is never good in my book |
+| 8  	| Java  	|  [ ]  | |
+| 9  	| Shell  	| [ ]  | |
 | 10  	| C 	| [ ]  | |
 | 11  	| C++  	|  [ ]  | |
 | 12  	| Typescript  	| [ ]  | |
