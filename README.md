@@ -14,8 +14,8 @@ Trying to use every programming language
 | 8  	| Java  	|  ✔  | This was my first language but gradle and maven is just a over complicated mess and the language is too verbose and redundant |
 | 9  	| C 	| ✔  | It was a experience, I did not know how to get utility functions and searching was hard because of c++ it was not a good experience and I did not knew what Im doing. I think the learning curve is really steep and now with Rust I dont see myself ever to attempt it |
 | 10  	| C++ 	| ✔  | It was definitely better than C in a newbie perspective, but still not feeling confident in this language |
-| 11  	| OCaml  	|  ❌  | I cant do it. Its so confusing for me. I find the docu not good at all. I never saw something remotely comparable. So I made it in Rust again |
-| 12  	| Typescript  	| [ ]  | |
+| 11  	| OCaml  	|  ❌  | I cant do it. Its so confusing for me. I find the docu not good at all. I never saw something remotely comparable. So I made it in Rust |
+| 12  	| Typescript  	| ✔  | Its my most used language (or framework for a language) and I like it. I just know how to do everything but still the setup process for this kind of stuff is suboptimal. You will need boilerplate as manual setup is just too complicated |
 | 13  	| Dart  	| [ ]  | |
 | 14  	| PHP  	|  [ ]  | |
 | 15  	|  Go 	| [ ]  | |
