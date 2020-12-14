@@ -16,7 +16,7 @@ Trying to use every programming language
 | 10  	| C++ 	| ✔  | It was definitely better than C in a newbie perspective, but still not feeling confident in this language |
 | 11  	| OCaml  	|  ❌  | I cant do it. Its so confusing for me. I find the docu not good at all. I never saw something remotely comparable. So I made it in Rust |
 | 12  	| Typescript  	| ✔  | Its my most used language (or framework for a language) and I like it. I just know how to do everything but still the setup process for this kind of stuff is suboptimal. You will need boilerplate as manual setup is just too complicated |
-| 13  	| Dart  	| ✔  | It was good, after downloading the sdk everything worked out of the box in vscode. Most of the stuff worked as expected, but some features are sadly missing like the enumerate in Rust to have a index and in forEach |
+| 13  	| Dart  	| ✔  | It was good, after downloading the sdk everything worked out of the box in vscode. Most of the stuff worked as expected, but some features are sadly missing like to iterate with forEach with the index and the object |
 | 14  	| PHP  	|  [ ]  | |
 | 15  	|  Go 	| [ ]  | |
 | 16  	|  Scala 	| [ ]  | |
