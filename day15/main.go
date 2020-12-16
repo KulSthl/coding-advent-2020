@@ -11,38 +11,45 @@ func main() {
 	var memory = [][2]int{};
 	var data = const_data;
 	data, memory = initialize(data,memory)
-	var spoken = 0;
-	for i := 0; len(data) < 30000000; i++ {
+	var _ = 0;
+	var target = data[len(data)-1]
+	var length = len(data);
+	for i := 0; length < 2020; i++ {
 		fmt.Println(i)
-		data , memory , spoken = playGame(data,memory)
+		 memory , _, target,length = playGame(data,memory,target,length)
+		
+		// fmt.Println(memory)
+		// fmt.Println(data)
 	}
-	fmt.Println(spoken)
-	fmt.Println(data)
+	fmt.Println("Result: ",target)
 	// fmt.Println(memory)
 }
-func playGame(data []int ,memory [][2]int)([]int,[][2]int, int){
+func playGame(data []int ,memory [][2]int,target int,length int)([][2]int, int,int,int){
 	var spoken = 0;
-	var target = data[len(data)-1];
+	// var target = data[len(data)-1];
 	var isInMemory = false;
 	var previous = -1;
 	for idx,integer := range (memory){
 		if target == integer[1] {
 			previous = integer[0];
-			update := [2]int{len(data)-1,target}
+			update := [2]int{length-1,target}
 			memory[idx] = update
 			isInMemory = true;
 			break;
 		}
 	}
 	if isInMemory {
-		spoken := len(data)-1-previous
-		data = append(data,spoken);
+		spoken := length-1-previous
+		target = spoken;
+		// data = append(data,spoken);
 	} else {
-		var temp = [2]int{len(data)-1,target}
+		var temp = [2]int{length-1,target}
 		memory = append(memory, temp);
-		data = append(data, 0);
+		target = 0;
+		// data = append(data, 0);
 	}
-	return data ,memory ,spoken
+	length += 1;
+	return memory ,spoken,target,length
 }
 func initialize(data []int ,memory [][2]int)([]int, [][2]int){
 	var mem = memory;
