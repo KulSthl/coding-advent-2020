@@ -19,7 +19,7 @@ Trying to use every programming language
 | 13  	| Dart  	| ✔  | It was good, after downloading the sdk everything worked out of the box in vscode. Most of the stuff worked as expected, but some features are sadly missing like to iterate with forEach with the index and the object |
 | 14  	| PHP  	|  ✔  | I remeber why I hate it |
 | 15  	|  Go 	| ✔  | The syntax is a bit confusing for a newbie tryind every programming language but everything was fine and easy to install |
-| 16  	|  Scala 	| [ ]  | |
+| 16  	|  Scala 	| ✔   | Not bad at all, i liked it very much. On the Java alternatives build on java my favorite so far |
 | 17  	| Javascript  	| [ ]  | |
 | 18  	|  R 	| [ ]  | |
 | 19  	|  Swift 	| [ ]  | |
