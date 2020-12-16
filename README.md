@@ -18,7 +18,7 @@ Trying to use every programming language
 | 12  	| Typescript  	| ✔  | Its my most used language (or framework for a language) and I like it. I just know how to do everything but still the setup process for this kind of stuff is suboptimal. You will need boilerplate as manual setup is just too complicated |
 | 13  	| Dart  	| ✔  | It was good, after downloading the sdk everything worked out of the box in vscode. Most of the stuff worked as expected, but some features are sadly missing like to iterate with forEach with the index and the object |
 | 14  	| PHP  	|  ✔  | I remeber why I hate it |
-| 15  	|  Go 	| [ ]  | |
+| 15  	|  Go 	| ✔  | The syntax is a bit confusing for a newbie tryind every programming language but everything was fine and easy to install |
 | 16  	|  Scala 	| [ ]  | |
 | 17  	| Javascript  	| [ ]  | |
 | 18  	|  R 	| [ ]  | |
