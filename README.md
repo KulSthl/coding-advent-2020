@@ -19,7 +19,7 @@ Trying to use every programming language
 | 13  	| Dart  	| ✔  | It was good, after downloading the sdk everything worked out of the box in vscode. Most of the stuff worked as expected. |
 | 15  	|  Go 	| ✔  | The syntax is a bit confusing for a newbie tryind every programming language but everything was fine and easy to install |
 | 16  	|  Scala 	| ✔   | Not bad at all, i liked it very much. On the Java alternatives on jvm my favorite so far |
-| 17  	| Javascript  	| [ ]  | |
+| 17  	| Javascript  	| ✔  | Typescript is definetly a better experience for me because of type checkinng but Javascript has just a solid base of functions that work well that makes it great in my book  |
 | 18  	|  R 	| [ ]  | |
 | 19  	|  Swift 	| [ ]  | |
 | 20  	|   Nim	| [ ]  | |
